@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=mi-game-video-speed
+name=Hyper OS 三倍数进游戏功能补全
+version=V1.00.00
+versionCode=10000
+author=sothx
+description=[模块版本:特别版]补全小米部分旗舰、新机型下开启三倍数进游戏的新功能体验，需要将游戏加入到[游戏加速]列表中才会生效，特别版支持更多游戏三倍数进游戏，但可能存在各种预料之外的异常问题。(反馈模块问题可前往酷安私信 @做梦书 或者Github:https://github.com/sothx/mi-game-video-speed)

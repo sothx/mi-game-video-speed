@@ -1,0 +1,6 @@
+# 这个文件将被 resetprop 读取
+# 示例: 改变 dpi
+# ro.sf.lcd_density=320
+# 开启三倍数进游戏的功能
+debug.game.video.support=true
+debug.game.video.speed=true
